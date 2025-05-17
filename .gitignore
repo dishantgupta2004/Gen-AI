@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+env/
+.venv/
+ENV/
+env.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Python environment files
+*.egg-info/
+*.eggs/
+*.bak
+
+# Log files
+*.log
+
+# IDE settings
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.swp
+
+# Ignore sensitive or large files
+*.pdf
+*.txt
