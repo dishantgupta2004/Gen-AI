@@ -1,0 +1,16 @@
+Unisole Empower is an Indian-based edtech platform and AI research community that provides industry-aligned training in emerging technologies. Founded to bridge the gap between academic learning and industry requirements, it focuses on upskilling students and professionals in fields like Artificial Intelligence, Data Science, and Machine Learning.
+Core Offerings and Features
+Specialised Courses: The platform offers a variety of technical and creative modules, including:
+Full Stack Data Science Pro: A comprehensive program covering Python, SQL, Machine Learning, Deep Learning, and MLOps.
+Generative AI & RAG Bootcamp: A focused training track for building AI knowledge agents.
+Python Programming: Foundations ranging from basic syntax to advanced Object-Oriented Programming (OOP).
+Creative Skills: Beyond tech, the platform also hosts courses like "Anyone Can Sketch".
+Learning Experience: Courses are delivered through a mix of live and recorded lectures, interactive modules, and mentor-led guidance.
+Community & Research: It positions itself as a "learning hub" that connects students with a network of peers and researchers to foster innovation. 
+Google Play
+Google Play
+ +6
+Accessibility
+Mobile App: Users can access materials and track performance via the Unisole Empower App on Google Play.
+Web Store: Courses are also available through their online store.
+Financial Flexibility: Some high-end programs allow for fee payments in monthly instalments. 
