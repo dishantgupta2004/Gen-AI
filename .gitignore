@@ -1,1 +1,5 @@
 \.lenv
+__pycache__
+05_Transformers\test.csv
+05_Transformers\train.csv
+05_Transformers\validation.csv
