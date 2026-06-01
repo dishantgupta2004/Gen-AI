@@ -1,0 +1,11 @@
+streamlit==1.35.0
+langchain==0.2.16
+langchain-openai==0.1.23
+langchain-groq==0.1.9
+langchain-community==0.2.16
+sqlalchemy==2.0.31
+pymysql==1.1.1
+plotly==5.22.0
+pandas==2.2.2
+python-dotenv==1.0.1
+openai==1.40.0

@@ -1,1 +1,0 @@
-**In this directory, Complete Model Context Protocol implementation with project will be given for academic purpose.**

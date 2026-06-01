@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+env/
+ENV/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.mypy_cache/
+.ruff_cache/
+
+# Env & secrets — never commit
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Logs
+*.log
+logs/
+
+# Local DB dumps
+*.dump
+*.sql.gz
