@@ -5,7 +5,7 @@ Main summarization logic and workflow orchestration.
 import time
 import logging
 from typing import Dict, Any, List
-from langchain.schema import Document
+from langchain_core.documents import Document
 
 from utils.loader import load_documents, DocumentLoader
 from utils.summarizer import create_summarizer

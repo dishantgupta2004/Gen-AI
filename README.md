@@ -28,7 +28,7 @@ Gen-AI/
 │   ├── roots/                   # Extended CLI variant with video processing
 │   └── cli_project_COMPLETE/    # Full CLI chat app with tools & Anthropic API
 │
-└── 08_Complete_GenAI/           # Gen AI on AWS book workspace (preserved)
+└── 04_Complete_GenAI/           # Gen AI on AWS book workspace (preserved)
     ├── docs/                    # Lecture slides (Lectures 1–3)
     └── ResearchPapers/          # 14 curated papers on training, quantization & scaling
 ```

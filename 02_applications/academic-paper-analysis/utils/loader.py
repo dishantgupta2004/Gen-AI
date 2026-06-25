@@ -5,7 +5,7 @@ Document loaders for different input types (PDF, YouTube, URLs).
 import tempfile
 import validators
 from typing import List, Optional
-from langchain.schema import Document
+from langchain_core.documents import Document
 from langchain_community.document_loaders import (
     PyPDFLoader,
     YoutubeLoader, 

@@ -3,12 +3,13 @@ LLM summarization chains and orchestration logic.
 """
 
 from typing import List, Dict, Any
-from langchain.schema import Document
+from langchain_core.documents import Document
 from langchain_groq import ChatGroq
 from langchain_openai import ChatOpenAI
 from langchain.chains.summarize import load_summarize_chain
-from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain.chains import LLMChain
+
 from utils.prompts import (
     get_prompt_by_type, 
     AcademicPrompts
